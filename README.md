@@ -27,4 +27,4 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
 
 <h4> 📌 Github Stats</h4>
 
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taruns117)](https://github.com/taruns117/github-readme-stats)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taruns0203)](https://github.com/taruns0203/github-readme-stats)
