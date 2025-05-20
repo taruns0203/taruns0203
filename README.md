@@ -16,8 +16,8 @@ Want to know more about me? <a href="">Check out my portfolio</a>.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taruns0203&repo=React-Jonas-course&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" style="max-width: 100%;">
 </a>
 
-<a href="https://github.com/taruns117/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taruns117&repo=DSA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" style="max-width: 100%;">
+<a href="https://github.com/taruns0203/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taruns0203&repo=DSA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" style="max-width: 100%;">
 </a>
 
 <br />
